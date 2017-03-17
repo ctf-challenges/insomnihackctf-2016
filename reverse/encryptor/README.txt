@@ -1,0 +1,1 @@
+We need your skillz because one G**gle car has become mad and tries to kill as many pedestrians as possible. Fortunately, we have recovered an encryptor that it uses to protect its firmware thanks to a master key of type INS{...}. Please help us, implement the corresponding decryptor and recover the master key that can be found in the provided ciphertext.

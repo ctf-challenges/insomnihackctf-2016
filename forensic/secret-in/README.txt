@@ -1,0 +1,2 @@
+AI uses us as pets and locks us up at night.
+After the last upgrade of my master, I found the old harddrive in the garbage and successfully recovered some kind of hipster secrets manager. Fortunately, the neighbor's human still had an old remote memory dumper and this morning we extracted the memory of this process during the opening procedure of our cage. Can you help us extract the key leading to our freedom?

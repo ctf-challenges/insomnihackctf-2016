@@ -1,0 +1,3 @@
+The toasters have evolved!!!
+We've heard of rumors that they're trying to take over the world...
+We can't let this happen, you must find a flaw in their web interface!
